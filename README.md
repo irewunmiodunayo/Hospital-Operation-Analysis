@@ -1,12 +1,14 @@
 **Hospital Operation Performance Analysis Dashboard | Power BI**
-**
-Project Overview**
+
+
+**Project Overview**
 
 This project analyzes hospital operational data using Microsoft Power BI to evaluate patient admissions, readmissions, waiting time, treatment costs, and treatment outcomes.
 
 The dashboard provides an overview of hospital performance through interactive visualizations, helping users explore patient demographics, insurance coverage, diagnosis patterns, severity levels, and treatment outcomes.
-**
-Objectives**
+
+
+**Objectives**
 
 Analyze the number of admitted and readmitted patients.
 
@@ -20,7 +22,8 @@ Evaluate treatment outcomes and diagnosis severity levels.
 
 Compare patient counts across different medical diagnoses.
 
-Tools Used
+
+**Tools Used**
 
 Microsoft Power BI — Data visualization and dashboard development.
 
@@ -28,7 +31,8 @@ Power Query — Data transformation and preparation.
 
 DAX — Measures and KPI calculations, where applicable.
 
-![Hospital Operation Analysis](hospital operation analysis dashboard.png)
+![Hospital Operation Analysis](hospital%20operation%20analysis%20dashboard.png)
+
 
 **Key Performance Indicators (KPIs)**
 
@@ -59,8 +63,6 @@ Diagnosis by Severity Level — Displays patient distribution across Low, Medium
 
 Patients by Diagnosis — Compares patient counts across medical diagnoses, including heart disease, stroke, cancer, hypertension, and pneumonia.
 
-## Dashboard Preview
-![Hospital Operation Analysis](hospital operation analysis dashboard.png)
 
 **Key Insights**
 
